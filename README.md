@@ -6,7 +6,7 @@ This repository contains the information of the members of MAIT-OS organisation 
 |----------|:-------------:|:------:|---|---|
 | Ankush Malik |  ankushmalik631@gmail.com | Fullstack Web Dev | HTML5, CSS3/SASS, JS, Ruby  | Sublime, nano  |
 | Divyansh Jha |    divyanshj.16@gmail.com   |   Machine Learning,Web Development | Python, JS, C++, HTML5, CSS  | Sublime, Atom |
-| col 3 is | right-aligned |    $1 |   |  |
+| Deepak Bansal | deepakbansal63@gmail.com | Fullstack Web Development | HTML5, CSS3, JS, NodeJS | Webstorm, Atom|
 |          |               |       |   |  |
 |          |               |       |   |  |
 |          |               |       |   |  |
