@@ -4,7 +4,7 @@ This repository contains the information of the members of MAIT-OS organisation 
 # Table of Members
 | Name   |     Email      |  Development type | Languages used  | Favourite Tex Editor |
 |----------|:-------------:|------:|---|---|
-| col 1 is |  left-aligned | $1600 |   |    |
+| Ankush Malik |  ankushmalik631@gmail.com | Fullstack Web Dev | HTML5, CSS3/SASS, JS, Ruby  | Sublime, nano  |
 | col 2 is |    centered   |   $12 |   |  |
 | col 3 is | right-aligned |    $1 |   |  |
 |          |               |       |   |  |
