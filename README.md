@@ -8,6 +8,7 @@ This repository contains the information of the members of MAIT-OS organisation 
 | Divyansh Jha |    divyanshj.16@gmail.com   |   Machine Learning,Web Development | Python, JS, C++, HTML5, CSS  | Sublime, Atom |
 | Deepak Bansal | deepakbansal63@gmail.com | Fullstack Web Development | HTML5, CSS3, JS, NodeJS | Webstorm, Atom|
 | Subhanshu Goel |               | Back End Dev, Bot Dev | C, C++, Python| Sublime, Vim |
+| Apoorv Garg |  apoorvgarg98@gmail.com | Java,Web Development | Servlets,Jsp,HTML5, CSS, JS  | Sublime  |
 |          |               |       |   |  |
 |          |               |       |   |  |
 
