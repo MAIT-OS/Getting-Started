@@ -12,6 +12,3 @@ This repository contains the information of the members of MAIT-OS organisation 
 |          |               |       |   |  |
 |          |               |       |   |  |
 
-
-# Todo
-Please fill up your details apoorv
