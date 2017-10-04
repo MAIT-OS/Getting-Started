@@ -19,5 +19,5 @@ This repository contains the information of the members of MAIT-OS organisation 
 | Subhanshu Goel |               | Back End Dev, Bot Dev | C, C++, Python|
 | Apoorv Garg |  apoorvgarg98@gmail.com | Java,Web Development | Servlets,Jsp,HTML5, CSS, JS  |
 
-feel free to contact any of the above Devs regarding anay issue 
+feel free to contact any of the above Devs regarding any issue 
 
